@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="business">#3E64FF</color>
+    <color name="vacation">#FFC93E</color>
+    <color name="medical">#FF3E6C</color>
+    <color name="education">#3EBAFF</color>
+</resources>
